@@ -1,0 +1,27 @@
+
+@media (min-width: 768px) { 
+	#rmLocalhostWidget 
+		{max-width: 400px;} 
+}
+
+#rmLocalhostWidget {
+	border:solid 1px #ddd;
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 6px;
+	box-shadow: 5px 5px 10px #888888;
+}
+
+#descriptionArea {
+	min-height:50px;
+}
+
+#rmLocalhostWidget .list-group {
+	margin-top:2px;
+	margin-bottom:2px;
+}
+
+#rmLocalhostWidget .col-lg-12 {
+	padding-left:2px;
+	padding-right:2px;
+}

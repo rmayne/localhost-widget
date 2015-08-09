@@ -1,0 +1,13 @@
+{
+	"name": "localhost-widget",
+	"description": "Helps you navigate your local sites.",
+	"version": "0.0.1",
+	"homepage": "https://github.com/rmayne/localhost-widget",
+	"license": "MIT",
+	"private": true,
+	"dependencies": {
+    "angular": "~1.4.0",
+    "angular-mocks": "1.4.x",
+    "bootstrap": "~3.3.5"
+	}
+}
